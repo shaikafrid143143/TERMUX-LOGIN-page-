@@ -1,4 +1,4 @@
-imort colorama 
+import colorama 
 from colorama import From,Back,Style
 import time 
 print(time.sleep(5)+"CODED BY SHAIK AFRID")
