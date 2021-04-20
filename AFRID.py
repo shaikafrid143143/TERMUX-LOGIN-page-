@@ -3,7 +3,7 @@ from colorama import From,Back,Style
 import time 
 print(time.sleep(5)+"CODED BY SHAIK AFRID")
 time.sleep(5)
-print(Fore.YELLOW + Style.BRIGHt+Back.WHITE+UR NOT A CODERBRESPECT CODERS)
+print(Fore.YELLOW + Style.BRIGHt+Back.WHITE+"UR NOT A CODERBRESPECT CODERS")
 time.sleep(3)
 X=INPUT(Fore.RED+Style.BRIGHT+"ENTER USERNAME :-)
 Y=INPUT(time.sleep(2)+Fore.RED+Style.BRIGHT+"ENTER PASSWORD :-)
